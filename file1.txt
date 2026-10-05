@@ -1,2 +1,3 @@
 Initial content of file 1.
 Case 1 change made by Zakhar.
+Case 3 change made by Zakhar.
